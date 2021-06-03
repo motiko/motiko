@@ -1,6 +1,8 @@
-### Hi there 👋
-![counter](https://enc8gxb9w48ysra.m.pipedream.net)
-I'm Moti, a software developer with passion for the open web. In my free time I work on a few open source projects. If any of my work was useful to you I would be glad to hear about it. Feel free to send me message here or on twitter.
+### Hi there 👋  
+I'm Moti, a software developer with passion for the open web.  
+In my free time I work on a few open source projects. If any of my work was useful to you I would be glad to hear about it. Feel free to send me message here or on twitter.
+
+![counter](https://enc8gxb9w48ysra.m.pipedream.net)  
 <!--
 **motiko/motiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
