@@ -1,7 +1,8 @@
-### Hi there 👋  
+![Header](./github-header-banner.png)
+## Hi There 
 I'm Moti, a software developer.  
 In my free time I work on open source projects. If any of my work was useful to you, I would be glad to hear about it.  
-Feel free to send me message here or on twitter.
+Feel free to contact me if you have any questions about what I do and how can I help you.
 
 ![counter](https://enc8gxb9w48ysra.m.pipedream.net)  
 <!--
